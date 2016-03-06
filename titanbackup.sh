@@ -1,4 +1,4 @@
-## "titanpad_backup.sh"
+## "titanbackup.sh"
     VERSION="Sat Mar 05 21:42:23 CET 2016"
 ## size: 3700 bytes
 
